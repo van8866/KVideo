@@ -8,7 +8,7 @@
 import { useState, useMemo } from 'react';
 import { Icons } from '@/components/ui/Icon';
 import type { M3UChannel } from '@/lib/utils/m3u-parser';
-import type { IPTVSource } from '@/lib/store/iptv-store';
+import type { IPTVSource } from 'https://iptv.wreck88.us.kg/iptv.m3u';
 
 const PAGE_SIZE = 100;
 
